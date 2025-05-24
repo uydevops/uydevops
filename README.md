@@ -1,1 +1,28 @@
-# Merhaba, ben Uğurcan Yaş 👋  Teknolojiyi tutkuyla takip eden, yenilikçi çözümler geliştirmeye odaklanmış deneyimli bir yazılım mimarıyım.   Altf4 Yazılım Şirketi’nde, sürdürülebilir ve ölçeklenebilir yazılım mimarileri tasarlıyor, ekiplerimize liderlik yapıyorum.  ## 🚀 Uzmanlık Alanlarım - PHP & Laravel ile modern ve güçlü web uygulamaları geliştirme   - DevOps ve otomasyon süreçleriyle yazılım teslimatını optimize etme   - Temiz kod ve yazılım mimarisi prensiplerini projelere entegre etme    ## 📈 Profesyonel Yaklaşımım Kodun sadece işlevsel değil, aynı zamanda anlaşılır, sürdürülebilir ve kaliteli olması gerektiğine inanıyorum.   Ekip çalışmasını, bilgi paylaşımını ve sürekli gelişimi işimin ayrılmaz parçaları olarak görüyorum.  ## 📫 İletişim - [LinkedIn](https://www.linkedin.com/in/ugurcan-yas)   - [GitHub](https://github.com/uydevops)   - Twitter: @ugurcanyas (varsa ekleyebiliriz)    ---  ### ⚡ Kişisel Not   Yazılım geliştirmede kalite, tutku ve disiplin benim için vazgeçilmez.   Her yeni projede kendimi daha da geliştiriyor, sınırlarımı zorluyorum.  ---  Bu profil, profesyonel duruşumun ve sürekli öğrenme yolculuğumun bir yansımasıdır.
+# Merhaba, ben Uğurcan Yaş 👋
+
+Teknolojiyi tutkuyla takip eden, yenilikçi çözümler geliştirmeye odaklanmış deneyimli bir yazılım mimarıyım.  
+Altf4 Yazılım Şirketi’nde, sürdürülebilir ve ölçeklenebilir yazılım mimarileri tasarlıyor, ekiplerimize liderlik yapıyorum.
+
+## 🚀 Uzmanlık Alanlarım
+- PHP & Laravel ile modern ve güçlü web uygulamaları geliştirme  
+- DevOps ve otomasyon süreçleriyle yazılım teslimatını optimize etme  
+- Temiz kod ve yazılım mimarisi prensiplerini projelere entegre etme  
+
+## 📈 Profesyonel Yaklaşımım
+Kodun sadece işlevsel değil, aynı zamanda anlaşılır, sürdürülebilir ve kaliteli olması gerektiğine inanıyorum.  
+Ekip çalışmasını, bilgi paylaşımını ve sürekli gelişimi işimin ayrılmaz parçaları olarak görüyorum.
+
+## 📫 İletişim
+- [LinkedIn](https://www.linkedin.com/in/ugurcan-yas)  
+- [GitHub](https://github.com/uydevops)  
+- Twitter: @ugurcanyas (varsa ekleyebiliriz)  
+
+---
+
+### ⚡ Kişisel Not  
+Yazılım geliştirmede kalite, tutku ve disiplin benim için vazgeçilmez.  
+Her yeni projede kendimi daha da geliştiriyor, sınırlarımı zorluyorum.
+
+---
+
+Bu profil, profesyonel duruşumun ve sürekli öğrenme yolculuğumun bir yansımasıdır.
