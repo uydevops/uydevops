@@ -14,7 +14,7 @@ I'm a passionate software architect at **Altf4 Yazılım Şirketi**, specializin
 
 ## 🔥 Projects I've Contributed To
 
-| <img src="https://play-lh.googleusercontent.com/8YDLuOjW28u6R1H1A1Xz3DdBvXD4_V6kLYH9rfOqgQh7H0dB4RbFPTwX0F3HT6_MpA" alt="Cosneff Logo" width="100"/> | <img src="https://play-lh.googleusercontent.com/9Lh0Jp-w_rH0mnl22aYy4_8W4IqBqHLtW5EcK6nMHKV_BzxO7v1z6oJWiVq9rr1Z5Q" alt="UstaPOS Logo" width="100"/> | <img src="https://play-lh.googleusercontent.com/wGvLqwGEiw7OP2qk5j1Hc3UVUQG-_pLSPePXXOqaqyZUVLBT0X9M-UbI_SpSxfvhvL-J" alt="MasterBM Logo" width="100"/> |
+| <img src="https://play-lh.googleusercontent.com/zjOu1AgVvpZ927WlgCRGuz_lSKjvhsnp5t4npM43GIACBztrzXGjpD2UMfrBj-oNhmg=w240-h480-rw"/> | <img src="https://play-lh.googleusercontent.com/9Lh0Jp-w_rH0mnl22aYy4_8W4IqBqHLtW5EcK6nMHKV_BzxO7v1z6oJWiVq9rr1Z5Q" alt="UstaPOS Logo" width="100"/> | <img src="https://play-lh.googleusercontent.com/wGvLqwGEiw7OP2qk5j1Hc3UVUQG-_pLSPePXXOqaqyZUVLBT0X9M-UbI_SpSxfvhvL-J" alt="MasterBM Logo" width="100"/> |
 |:---:|:---:|:---:|
 | **Cosneff Cosmetics** | **UstaPOS** | **MasterBM ERP** |
 | [Google Play](https://play.google.com/store/apps/details?id=com.altf4.cosnef.app) | [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.efc3) | [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.hrmr) |
