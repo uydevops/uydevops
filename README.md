@@ -8,11 +8,12 @@ Full-Stack Developer | Software Architect | Open Source Contributor
 
 ## 🚀 About Me
 
-I'm a passionate software architect at **Altf4 Yazılım Şirketi**, specializing in building scalable and maintainable software solutions. With expertise in PHP, Node.js, and Next.js, I contribute to various open-source projects, including:
+I'm a passionate software architect at **Altf4 Yazılım Company**, specializing in building scalable and maintainable software solutions. With expertise in PHP, Node.js, and Next.js, I contribute to various open-source projects, including:
 
-- **HAVELSAN**: Collaborated on high-tech defense and IT solutions.
-- **Liman MYS**: Contributed to the development of a centralized IT management system.
-- **MY Çelik Yapı Sanayi**: Developed robust web applications for the construction industry.
+- **Cosneff Cosmetics**: Developed a user-friendly mobile application for a leading Turkish cosmetics brand. [Google Play](https://play.google.com/store/apps/details?id=com.altf4.cosnef.app)
+- **UstaPOS**: Created an advanced automation system for carpet washing businesses, integrating order tracking and customer management. [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.efc3)
+- **Best Salon App**: Contributed to a salon appointment booking application, enhancing user experience and functionality. [Google Play](https://play.google.com/store/apps/details?id=com.salons.client.app)
+- **MasterBM ERP**: Developed an ERP system tailored for Hürmer Marble, streamlining business processes. [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.hrmr)
 
 ---
 
