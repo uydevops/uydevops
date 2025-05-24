@@ -8,7 +8,7 @@ Full-Stack Developer | Software Architect | Open Source Contributor
 
 ## 🚀 About Me
 
-I'm a passionate software architect at **Altf4 Yazılım Şirketi**, specializing in scalable and maintainable software solutions. Skilled in PHP, Node.js, and Next.js with a strong focus on clean architecture and full-stack development.
+I'm a passionate software architect at **Altf4 Software Solutions**, specializing in scalable and maintainable software solutions. Skilled in PHP, Node.js, and Next.js with a strong focus on clean architecture and full-stack development.
 
 ---
 
