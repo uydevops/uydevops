@@ -8,12 +8,16 @@ Full-Stack Developer | Software Architect | Open Source Contributor
 
 ## 🚀 About Me
 
-I'm a passionate software architect at **Altf4 Yazılım Company**, specializing in building scalable and maintainable software solutions. With expertise in PHP, Node.js, and Next.js, I contribute to various open-source projects, including:
+I'm a passionate software architect at **Altf4 Yazılım Şirketi**, specializing in scalable and maintainable software solutions. Skilled in PHP, Node.js, and Next.js with a strong focus on clean architecture and full-stack development.
 
-- **Cosneff Cosmetics**: Developed a user-friendly mobile application for a leading Turkish cosmetics brand. [Google Play](https://play.google.com/store/apps/details?id=com.altf4.cosnef.app)
-- **UstaPOS**: Created an advanced automation system for carpet washing businesses, integrating order tracking and customer management. [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.efc3)
-- **Best Salon App**: Contributed to a salon appointment booking application, enhancing user experience and functionality. [Google Play](https://play.google.com/store/apps/details?id=com.salons.client.app)
-- **MasterBM ERP**: Developed an ERP system tailored for Hürmer Marble, streamlining business processes. [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.hrmr)
+---
+
+## 🔥 Projects I've Contributed To
+
+| <img src="https://play-lh.googleusercontent.com/8YDLuOjW28u6R1H1A1Xz3DdBvXD4_V6kLYH9rfOqgQh7H0dB4RbFPTwX0F3HT6_MpA" alt="Cosneff Logo" width="100"/> | <img src="https://play-lh.googleusercontent.com/9Lh0Jp-w_rH0mnl22aYy4_8W4IqBqHLtW5EcK6nMHKV_BzxO7v1z6oJWiVq9rr1Z5Q" alt="UstaPOS Logo" width="100"/> | <img src="https://play-lh.googleusercontent.com/wGvLqwGEiw7OP2qk5j1Hc3UVUQG-_pLSPePXXOqaqyZUVLBT0X9M-UbI_SpSxfvhvL-J" alt="MasterBM Logo" width="100"/> |
+|:---:|:---:|:---:|
+| **Cosneff Cosmetics** | **UstaPOS** | **MasterBM ERP** |
+| [Google Play](https://play.google.com/store/apps/details?id=com.altf4.cosnef.app) | [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.efc3) | [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.hrmr) |
 
 ---
 
@@ -37,8 +41,8 @@ I'm a passionate software architect at **Altf4 Yazılım Company**, specializing
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugurcan-yas)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uydevops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugurcan-yas)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uydevops)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ugurcanyas)
 
 ---
