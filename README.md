@@ -1,61 +1,164 @@
-# Hi there, I'm Uğurcan Yaş 👋
-![Coding Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-Full-Stack Developer | Embedded Systems Developer | Software Architect | Open Source Contributor
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=U%C4%9Furcan%20Ya%C5%9F&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Embedded%20Systems%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🚀 About Me
-I'm a passionate software architect at **Altf4 Software Solutions**, specializing in scalable and maintainable software solutions. Skilled in PHP, Node.js, and Next.js with a strong focus on clean architecture and full-stack development.
+<a href="https://github.com/uydevops">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Embedded+Systems+Developer;PHP+%2F+Laravel+%2F+Next.js+%2F+ESP32+%2F+C%2B%2B;Building+production+firmware+%2B+SaaS+platforms;Based+in+%C5%9Eanl%C4%B1urfa%2C+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+</a>
 
-Alongside this, I work as an **embedded systems developer at Umex** (laser/beauty device manufacturer) and at **UG Teknoloji** (industrial automation & security systems), building firmware and hardware-integrated solutions for real production environments. I'm also the solo founder/developer of **siparismasanda.com**, a QR digital menu & table-ordering SaaS platform for Turkish restaurants and cafes.
+</div>
 
----
+<br>
 
-## 🔥 Projects I've Contributed To
+## 👨‍💻 About Me
 
-| <img src="https://play-lh.googleusercontent.com/zjOu1AgVvpZ927WlgCRGuz_lSKjvhsnp5t4npM43GIACBztrzXGjpD2UMfrBj-oNhmg=w240-h480-rw"/> | <img src="https://play-lh.googleusercontent.com/VYo3KyWE3roQIARmMZVbl9cxjufFXTu2ONudrP4iOrXw4zF6GDQxGpnycbJ65fMoRQ=w240-h480-rw" alt="UstaPOS Logo" width="100"/> | <img src="https://play-lh.googleusercontent.com/dSoPOtfl46Duq5fLYpPOHJCKl8DvZbCEYu9HM1VvWkI0t061yqBB2e8UnCCcwaW6OQ=w240-h480-rw" alt="MasterBM Logo" width="100"/> |
-|:---:|:---:|:---:|
-| **Cosneff Cosmetics** | **UstaPOS** | **MasterBM ERP** |
-| [Google Play](https://play.google.com/store/apps/details?id=com.altf4.cosnef.app) | [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.efc3) | [Google Play](https://play.google.com/store/apps/details?id=tc.com.altf4.hrmr) |
+I'm a full-stack developer and embedded systems engineer working across software and hardware. My day-to-day splits between building industrial firmware for security & automation systems, and shipping full-stack web platforms end to end — from backend architecture to production deployment.
 
-### 🌐 Web & SaaS Projects
-- **[siparismasanda.com](https://siparismasanda.com)** — QR-based digital menu & table ordering SaaS built on Laravel/PHP, with an automated n8n content pipeline and Meta Pixel/CAPI integration.
-- **Enjoy Burger House** — Full product page redesign for a dark-themed Laravel e-commerce site, including Meta Commerce Manager catalog feed fixes (Cache-Control & zlib compression handling).
-- **ugbusiness.com.tr** — CodeIgniter/PHP backend for UG Teknoloji's security & automation systems.
+- 🔭 Currently working full-time at **UG Teknoloji** — industrial automation & security systems
+- ⚙️ Also building embedded firmware for **Umex** — laser/beauty device manufacturing
+- 🚀 Founder & solo developer of **[siparismasanda.com](https://siparismasanda.com)** — QR digital menu & table-ordering SaaS
+- 🌱 Currently exploring: FPGA fundamentals, open-source avionics (JSBSim, PX4, ArduPilot)
+- 🎯 Long-term interest: defense industry software & embedded systems
 
-### 🔧 Embedded Systems @ Umex & UG Teknoloji
-- **ESP32-S3 RFID Security Guard Patrol System** — MFRC522 RFID, TLS via a global `WiFiClientSecure` instance, NTP + server-time hybrid sync, full Turkish serial debug logging.
-- **ESP32 CRT Test Pattern Generator** — 34 test modes, RS-232 HMI integration (Omron NB7W) via a custom binary protocol, namespace/function-pointer based architecture.
-- **LED Strip Control System** — FastLED → Adafruit_NeoPixel migration for production lighting control.
-- **FAIRINO FR5 Collaborative Robot Integration** — Intel RealSense D435i hand-eye calibration, Python SDK control, vision-based coordinate system debugging.
+<br>
 
----
+## 🏢 Where I Work
 
-## ⚙️ Technologies & Tools
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://ugteknoloji.com/images/logo.png" width="90"/><br>
+<b>UG Teknoloji</b><br>
+<sub>Industrial Automation & Security Systems</sub><br>
+<sub>ESP32-S3 RFID patrol systems · TLS/NTP sync · CodeIgniter backend</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://www.umex.com.tr/assets/images/layouts/umex-logo-white.png" width="140" style="background:#111;padding:8px;border-radius:8px"/><br>
+<b>Umex</b><br>
+<sub>Laser & Beauty Device Manufacturing</sub><br>
+<sub>CRT test pattern generators · RS-232 HMI · Cobot vision integration</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://enjoyburgerhouse.com/logo/enjoy-burger-logo.svg" width="90"/><br>
+<b>Enjoy Burger House</b><br>
+<sub>Freelance — Laravel E-Commerce</sub><br>
+<sub>Full product page redesign · Meta Commerce catalog fix</sub>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 📈 GitHub Stats
-![Uğurcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uydevops&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uydevops&layout=compact&theme=radical)
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugurcan-yas)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uydevops)  
+### 🍽️ siparismasanda.com
+QR-based digital menu & table-ordering SaaS for Turkish restaurants and cafes.
+- Laravel/PHP core platform
+- Automated n8n blog pipeline (CKEditor HTML + OG images via Playwright/ImageMagick)
+- Meta Pixel & Conversions API (CAPI) integration
 
----
+</td>
+<td width="50%" valign="top">
 
-### ⚡ Passionate about clean code, scalable architectures, embedded systems, and continuous learning.
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=uydevops.uydevops)
+### 🔐 ESP32-S3 RFID Patrol System
+Security guard patrol tracking system for UG Teknoloji.
+- Global `WiFiClientSecure` instance for stable TLS
+- NTP + server-time hybrid sync
+- CodeIgniter/PHP backend (ugbusiness.com.tr)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎛️ CRT Test Pattern Generator
+ESP32-based test pattern generator with 34 modes for Umex production lines.
+- RS-232 HMI integration (Omron NB7W) via custom binary protocol
+- Namespace / function-pointer based firmware architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 FAIRINO FR5 Cobot Integration
+Vision-guided collaborative robot control at Umex.
+- Intel RealSense D435i hand-eye calibration
+- Python SDK-based robot control & coordinate debugging
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://play-lh.googleusercontent.com/zjOu1AgVvpZ927WlgCRGuz_lSKjvhsnp5t4npM43GIACBztrzXGjpD2UMfrBj-oNhmg=w240-h480-rw" width="70"/><br>
+<b>Cosneff Cosmetics</b><br>
+<a href="https://play.google.com/store/apps/details?id=com.altf4.cosnef.app">Google Play</a>
+</td>
+<td align="center" width="33%">
+<img src="https://play-lh.googleusercontent.com/VYo3KyWE3roQIARmMZVbl9cxjufFXTu2ONudrP4iOrXw4zF6GDQxGpnycbJ65fMoRQ=w240-h480-rw" width="70"/><br>
+<b>UstaPOS</b><br>
+<a href="https://play.google.com/store/apps/details?id=tc.com.altf4.efc3">Google Play</a>
+</td>
+<td align="center" width="33%">
+<img src="https://play-lh.googleusercontent.com/dSoPOtfl46Duq5fLYpPOHJCKl8DvZbCEYu9HM1VvWkI0t061yqBB2e8UnCCcwaW6OQ=w240-h480-rw" width="70"/><br>
+<b>MasterBM ERP</b><br>
+<a href="https://play.google.com/store/apps/details?id=tc.com.altf4.hrmr">Google Play</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Web & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nextjs,js,mysql,docker&theme=dark" />
+
+**Embedded & Hardware**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,arduino,py&theme=dark" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/RFID-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RS--232%2FRS--485-333333?style=for-the-badge" />
+
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,cursor&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=uydevops&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uydevops&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uydevops&theme=radical&hide_border=true" />
+</div>
+
+<br>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugurcan-yas)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uydevops)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
